@@ -1131,3 +1131,4 @@ Received Import Request.
   path: Assets/ExampleAssets/Models/small_plane.fbx
   artifactKey: Guid(aeaee610429f51f44981e141eb2a3545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ExampleAssets/Models/small_plane.fbx using Guid(aeaee610429f51f44981e141eb2a3545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd226638279bed3d6d1757908525222a7') in 0.024727 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
